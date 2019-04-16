@@ -1,0 +1,6 @@
+com\darakay\oop_projects\fileworker\executable\HashFunctionExecutor.class
+com\darakay\oop_projects\fileworker\executable\IExecutable.class
+com\darakay\oop_projects\fileworker\results\FileWorkerResults.class
+com\darakay\oop_projects\fileworker\FileWorker.class
+com\darakay\oop_projects\fileworker\results\Result.class
+com\darakay\oop_projects\fileworker\executable\FileInfo.class
